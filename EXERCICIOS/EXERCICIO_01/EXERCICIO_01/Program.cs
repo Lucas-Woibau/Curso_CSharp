@@ -7,7 +7,7 @@ namespace EXERCICIO_01
         static void Main(string[] args)
         {
             string produto01 = "Computador";
-            string produto02 = "Mesa de escritório";
+            string produto02 = "Mesa de escritório!";
 
             byte idade = 30;
             int codigo = 5290;
