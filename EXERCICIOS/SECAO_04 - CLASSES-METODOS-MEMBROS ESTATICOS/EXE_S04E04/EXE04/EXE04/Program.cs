@@ -27,7 +27,7 @@ namespace EXE04
             func.AumentarSalario(porcent);
 
             Console.WriteLine();
-            Console.WriteLine($"Dados do funcionario: {func}");
+            Console.WriteLine($"Dados do funcionario: {func} ");
         }
     }
 }
